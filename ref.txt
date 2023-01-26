@@ -1,0 +1,2 @@
+
+https://stackoverflow.com/questions/41461517/deploy-two-separate-heroku-apps-from-same-git-repo
